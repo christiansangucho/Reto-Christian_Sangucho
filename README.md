@@ -27,4 +27,4 @@ Se busca el número de columnas con las siguientes instrucciones
 ## Consulta para obtener la versión de Oracle
 =Gifts' UNION SELECT banner, 'NULL' FROM v$version--
 
-! [Imagen de la Version Oracle]()
+! [Imagen de la Version Oracle](https://github.com/christiansangucho/Reto-Christian_Sangucho/blob/main/Imagen%20de%20la%20Version%20Oracle.png)
