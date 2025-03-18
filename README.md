@@ -22,7 +22,7 @@ Se busca el número de columnas con las siguientes instrucciones
 
 
 ! [Imagen búsqueda de número de columnas con error](https://github.com/christiansangucho/Reto-Christian_Sangucho/blob/main/Imagen%20b%C3%BAsqueda%20de%20n%C3%BAmero%20de%20columnas%20con%20error.png)
-! [Imagen búsqueda de número de columnas]()
+! [Imagen búsqueda de número de columnas](https://github.com/christiansangucho/Reto-Christian_Sangucho/blob/main/Imagen%20b%C3%BAsqueda%20de%20n%C3%BAmero%20de%20columnas.png)
 
 ## Consulta para obtener la versión de Oracle
 =Gifts' UNION SELECT banner, 'NULL' FROM v$version--
